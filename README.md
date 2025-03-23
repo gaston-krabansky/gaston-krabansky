@@ -80,4 +80,4 @@ _Je suis toujours lycéen..._
 
 > 💼 **LinkedIn**: [gaston-krabansky](https://www.linkedin.com/in/gaston-krabansky/)<br>
 > 📷 **Github**: [gaston-krabansky](https://github.com/gaston-krabansky/)<br>
-> ✉️ **Email**: [snipertv59.pro@gmail.com](mailto:gaston.krabansky@gmail.com)<br>
+> ✉️ **Email**: [gaston.krabansky@gmail.com](mailto:gaston.krabansky@gmail.com)<br>
