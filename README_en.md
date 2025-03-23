@@ -5,11 +5,11 @@
 
 # 👤 | Who am I?
 
-> 👋 Hi, my name is **Gaston**, I'm **17** years old, and I'm from **France**.<br>
+> 👋 Hi, my name is **Gaston**, I'm **18** years old, and I'm from **France**.<br>
 > 🖥️ I'm passionate about **IT** and **programming**.<br>
 > 📚 I'm in **12th grade** _(final year of high school)_, and I've joined the **European Section for English**.<br>
-> 🔬 I code mainly in **Java**, but also have a good knowledge of **Python**, **HTML/CSS**, and **JavaScript**.<br>
-> ✉️ Feel free to **contact me by e-mail** at the following address : [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com).
+> 🔬 I code mainly in **Java** under the pseudonym *Sniper_TVmc*, but also have a good knowledge of **Python**.<br>
+> ✉️ Feel free to **contact me by e-mail** at the following address : [gaston.krabansky@gmail.com](mailto:gaston.krabansky@gmail.com).
 
 # 📚 | Studies
 
@@ -70,16 +70,14 @@ _Still in high school..._
 
 > ⚠️ **Note**: These statistics are based on my public repositories only.<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SniperTVmc&theme=github_dark)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SniperTVmc&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SniperTVmc&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaston-krabansky&theme=github_dark)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaston-krabansky&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaston-krabansky&theme=github_dark)
 
 # 📞 | Contact
 
 *Contact me by e-mail or on social networks*
 
-> 💼 **LinkedIn**: [Gaston KRABANSKY](https://www.linkedin.com/in/gaston-krabansky/)<br>
-> ✉️ **Email**: [snipertv59.pro@gmail.com](mailto:snipertv59.pro@gmail.com)<br>
-> 🤖 **Discord**: [@sniper_tvmc](https://discord.com/users/478908622102069251)<br>
-> 🐦 **Twitter (X)**: [@Sniper_TVmc](https://x.com/Sniper_TVmc)<br>
-> 📷 **Instagram**: [@gaston.kbk](https://www.instagram.com/gaston.kbk/)
+> 💼 **LinkedIn**: [gaston-krabansky](https://www.linkedin.com/in/gaston-krabansky/)<br>
+> 📷 **Github**: [gaston-krabansky](https://github.com/gaston-krabansky/)<br>
+> ✉️ **Email**: [gaston.krabansky@gmail.com](mailto:gaston.krabansky@gmail.com)<br>
