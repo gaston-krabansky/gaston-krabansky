@@ -8,7 +8,7 @@
 > 👋 Bonjour, je m'appelle **Gaston**, j'ai **18** ans et je suis **Français**.<br>
 > 🖥️ Je suis passionné par **l'informatique** et **la programmation**.<br>
 > 📚 Je suis en **classe de terminale**, et j'ai rejoint la **Section européenne d'anglais**.<br>
-> 🔬 Je code principalement en **Java** sous le pseudonyme *Sniepr_TVmc*, mais j'ai également de bonnes connaissances avec **Python**.<br>
+> 🔬 Je code principalement en **Java** sous le pseudonyme *Sniper_TVmc*, mais j'ai également de bonnes connaissances avec **Python**.<br>
 > ✉️ N'hésitez pas à me **contacter par e-mail** à l'adresse suivante : [gaston.krabansky@gmail.com](mailto:gaston.krabansky@gmail.com).
 
 # 📚 | Études
