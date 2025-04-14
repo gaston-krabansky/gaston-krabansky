@@ -1,4 +1,4 @@
-![Profile Banner](assets/profile-banner.png)
+![Profile Banner](banner.png)
 
 -----
 ### 🇫🇷 | Pour la version française, cliquez [ici](README.md).
